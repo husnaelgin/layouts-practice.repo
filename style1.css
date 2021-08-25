@@ -1,0 +1,46 @@
+body {
+  background-color: aliceblue;
+}
+h1 {
+  background-color: rgb(167, 157, 157);
+  display: block;
+  position: relative;
+  left: 200px;
+
+  border: 1px solid black;
+  width: 350px;
+  height: 210px;
+}
+.introduction {
+  background-color: cadetblue;
+  display: block;
+  position: relative;
+  left: 15px;
+  bottom: 235px;
+  margin-left: 2px;
+  border: 1px solid black;
+  width: 150px;
+  height: 700px;
+}
+.features {
+  background-color: rgb(216, 154, 211);
+  border: 1px solid black;
+  display: inline-block;
+  position: relative;
+  left: 180px;
+  bottom: 725px;
+  width: 150px;
+  height: 450px;
+  margin: 20px 20px;
+}
+.content {
+  background-color: rgb(102, 209, 147);
+  border: 1px solid black;
+  width: 150px;
+  height: 450px;
+  display: inline-block;
+  position: relative;
+  left: 180px;
+  bottom: 725px;
+  margin: 20px 20px;
+}

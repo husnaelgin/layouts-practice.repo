@@ -1,0 +1,13 @@
+div {
+  background-color: black;
+  display: inline-block;
+  height: 700px;
+  border: 5px solid black;
+}
+#container1 {
+  width: 300px;
+  margin-right: 25px;
+}
+#container2 {
+  width: 50px;
+}

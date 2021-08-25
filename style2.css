@@ -1,0 +1,15 @@
+div {
+  background-color: black;
+  display: inline-block;
+}
+.block1 {
+  height: 700px;
+  width: 100px;
+  margin-right: 20px;
+  border: 2px solid black;
+}
+.block2 {
+  height: 700px;
+  width: 300px;
+  border: 2px solid black;
+}

@@ -1,0 +1,32 @@
+div {
+  background-color: #000;
+
+  border: 1.5px solid black;
+}
+#header {
+  display: block;
+  width: 390px;
+  height: 120px;
+}
+.block1 {
+  display: inline-block;
+  width: 250px;
+  height: 275px;
+  margin: 9px 7px;
+  margin-left: 1px;
+}
+.block2 {
+  display: inline-block;
+  width: 120px;
+  height: 275px;
+
+  margin: 9px 7px;
+}
+.footer {
+  display: block;
+  width: 390px;
+  height: 120px;
+  position: fixed;
+  bottom: 60px;
+  margin: top 2px;
+}

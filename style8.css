@@ -1,0 +1,35 @@
+.header {
+  background-color: black;
+  width: 500px;
+  height: 100px;
+  margin-bottom: 10px;
+  margin: 10px;
+}
+#column1 {
+  column-count: auto;
+  column-gap: 3px;
+  height: 500px;
+  border: 3px solid black;
+  margin: 10px;
+  background-color: black;
+
+  display: inline-block;
+  position: relative;
+  left: 8px;
+}
+
+#column2 {
+  display: block;
+  column-count: auto;
+  column-gap: 3px;
+  border: 3px solid black;
+  margin: 18px;
+  width: 365px;
+  height: 500px;
+  background-color: black;
+  float: right;
+  position: absolute;
+  bottom: 100px;
+  left: 130px;
+  top: 111px;
+}

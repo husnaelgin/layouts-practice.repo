@@ -1,0 +1,27 @@
+div {
+  background-color: black;
+  display: block;
+}
+.block1 {
+  height: 500px;
+  width: 50px;
+  float: left;
+  margin-left: 10px;
+}
+.block2 {
+  height: 500px;
+  width: 220px;
+  float: left;
+  margin: 200px;
+  position: relative;
+  bottom: 200px;
+  right: 125px;
+}
+.block3 {
+  height: 500px;
+  width: 50px;
+  float: left;
+  position: relative;
+  left: 320px;
+  bottom: 898px;
+}

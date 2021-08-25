@@ -1,0 +1,17 @@
+div {
+  background-color: black;
+  display: block;
+  max-width: 200px;
+}
+.block1 {
+  width: 48%;
+  height: 700px;
+  float: left;
+  margin-right: 25px;
+}
+.block2 {
+  display: block;
+  width: 48%;
+  height: 700px;
+  float: left;
+}

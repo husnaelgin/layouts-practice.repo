@@ -1,0 +1,21 @@
+.header {
+  width: 50%;
+  height: 150px;
+  background-color: black;
+  margin: 10px 5px;
+}
+div {
+  height: 550px;
+  width: 16.66%;
+  background-color: ;
+  display: inline-block;
+}
+.block1 {
+  background-color: black;
+}
+.block2 {
+  background-color: black;
+}
+.block3 {
+  background-color: black;
+}

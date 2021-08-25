@@ -1,0 +1,19 @@
+header {
+  width: 468px;
+  background-color: black;
+  height: 100px;
+  margin-bottom: 10px;
+}
+div {
+  background-color: black;
+  display: inline-block;
+}
+.block1 {
+  height: 500px;
+  width: 350px;
+  margin-right: 20px;
+}
+.block2 {
+  height: 500px;
+  width: 95px;
+}

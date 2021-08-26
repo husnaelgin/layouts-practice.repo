@@ -1,0 +1,29 @@
+header {
+  width: 410px;
+  height: 100px;
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.block1 {
+  background-color: black;
+  display: block;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 10px;
+}
+.block2 {
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  display: block;
+  float: left;
+}
+footer {
+  width: 410px;
+  height: 100px;
+  background-color: black;
+  position: absolute;
+  top: 350px;
+}
